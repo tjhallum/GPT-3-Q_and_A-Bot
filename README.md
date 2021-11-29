@@ -6,7 +6,7 @@
 
 3. Activate the new conda environment
 
-4. Install OpenAI's Python Library (https://github.com/openai/openai-python): pip install --upgrade openai
+4. Install OpenAI's Python Library: pip install --upgrade openai
 
 5. Install python-dotenv: conda install -c conda-forge python-dotenv
 
