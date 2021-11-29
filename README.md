@@ -27,4 +27,4 @@ Follow these steps to get it up and running:
 12. Run the code in quick-and-dirty_gpt-3_q&a_bot.py
 
 ## Example Usage/Output:
-<img src="gpt3_opinions.jpg" width="700"/>
+<img src="gpt3_opinions.jpg" width="600"/>
