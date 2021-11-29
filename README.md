@@ -16,7 +16,7 @@
 
 9. Retrieve your API key: https://beta.openai.com/account/api-keys
 
-10. Add this line to your .env file: OPENAI_API_KEY = your-secret-api-key
+10. Add this line to your .env file: OPENAI_API_KEY = the-secret-api-key-you-just-retrieved
 
 11. Save the .env file
 
