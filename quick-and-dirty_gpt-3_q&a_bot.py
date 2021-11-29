@@ -101,6 +101,9 @@ initial_prompt = 'I am a highly intelligent question answering bot. If you '\
 dialogue = None
 question = None
 
+# =============================================================================
+# BOT INTERACTION
+# =============================================================================
 # If you want GPT-3 to be contextually aware of past answers and 
 # "keep its story straight", then set mem_mode = 'y'
 mem_mode = input("Enable memory mode ('y' or 'n')? ")
