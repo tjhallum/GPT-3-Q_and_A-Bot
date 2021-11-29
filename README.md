@@ -1,5 +1,9 @@
 # Quick-and-Dirty GPT-3 Q&A Bot
 
+This is a simple implementation of GPT-3 in Python to power a Q&A-style style chatbot.
+
+To kick the tires on this implementation yourself, follow these steps:
+
 1. Create an OpenAI account: https://beta.openai.com/signup
 
 2. Create a new Python conda environment for your GPT-3 project
