@@ -14,7 +14,7 @@
 
 8. Create an .env file in your clone of the repo (accessing your API key from an .env file is more secure than hardcoding it within your .py file)
 
-9. Retrieve your API key: https://beta[dot]openai[dot]com/account/api-keys
+9. Retrieve your API key: https://beta.openai.com/account/api-keys
 
 10. Add this line to your .env file: OPENAI_API_KEY = your-secret-api-key
 
