@@ -10,7 +10,7 @@
 
 5. Install python-dotenv: conda install -c conda-forge python-dotenv
 
-6. Clone this GitHub repo on your local machine
+6. Clone this GitHub repo
 
 8. Create an .env file in your clone of the repo (accessing your API key from an .env file is more secure than hardcoding it within your .py file)
 
