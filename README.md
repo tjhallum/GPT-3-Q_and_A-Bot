@@ -22,4 +22,5 @@
 
 12. Run the code in quick-and-dirty_gpt-3_q&a_bot.py
 
+Example Output:
 ![enter image description here](gpt3_opinions.jpg)
